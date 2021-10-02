@@ -5,6 +5,9 @@ The answer is in the ensemble methods.
 
 The random forest model can be considered as an ensemble of decision trees. The idea behind a random forest is to average multiple (deep) decision trees that individually suffer from high variance, to build a more robust model that has a better generalization performance and is less susceptible to overfitting. 
 
+![image](https://user-images.githubusercontent.com/53411455/135700637-b62663b1-0dcf-46c9-a5ad-77d258357bd6.png)
+
+
 # Data
 
 This repository contains an application of the random forest model on Iris dataset
